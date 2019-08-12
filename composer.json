@@ -1,0 +1,17 @@
+{
+  "name": "heikohardt/typo3-testing-framework",
+  "description": "TYPO3 testing framework for functional- and acceptance test",
+  "license": "GPL-2.0-or-later",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Heiko Hardt",
+      "email": "typo3.heiko@hardt.me"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "HeikoHardt\\TYPO3TestingFramework\\": "src/"
+    }
+  }
+}
